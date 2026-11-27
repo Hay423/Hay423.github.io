@@ -1,0 +1,1 @@
+function e(e){return e<=1?`solo`:`${e}+ players`}function t(t){return`${t.name} (${e(t.min_players)})`}export{t};
